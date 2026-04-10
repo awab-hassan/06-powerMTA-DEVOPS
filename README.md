@@ -1,7 +1,7 @@
 # Project #6 - PowerMTA Deployment. 
 
 
-Project Type: Application Dockerization and Deployment on Kubernetes cluster.
+Project Type: Application Dockerization and Deployment on EKS Kubernetes cluster.
 
 Project Description: Client asked me to dockerize powermta with license, entrypoints setup in dockerfile. Configuration of domain and mail setup with powerMTA to send mails.
 
