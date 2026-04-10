@@ -1,4 +1,4 @@
-# Project #6 - PowerMTA Deployment. 
+# Project #6 - PowerMTA Deployment on EKS. 
 
 
 Project Type: Application Dockerization and Deployment on EKS Cluster.
