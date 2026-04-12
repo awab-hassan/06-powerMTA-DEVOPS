@@ -47,7 +47,7 @@ RUN echo "service pmtahttp start" >> ./entrypoint.sh
 RUN echo "tail -f /dev/null" >> ./entrypoint.sh
 RUN chmod +x ./entrypoint.sh
 
-# final entrypoint
+# final entrypoint command
 
 ENTRYPOINT ["./entrypoint.sh"]
 
